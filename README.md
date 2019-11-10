@@ -6,6 +6,7 @@ After the first launch, I got many response and requests to upgrade the tool fro
 ![PyTalk](PyTalk.png)
 
 **How to use the tool:**
+
 Step 1) Press “Open” to load a file of list of words to be randomly read for you.
 
 Step 2) Fill in the Number of words (N) to be read; N should be an integer number. There are two modes now:
