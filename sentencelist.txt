@@ -1,0 +1,32 @@
+Self-driving cars to test city limits
+If driverless cars are to do more good than harm, cities need to prepare and invest in infrastructure.
+Delivering diapers and groceries at 25 miles per hour. 
+The debut of self-driving cars in Miami has been rather more prosaic than the futuristic and speedy science fiction dream. 
+The fleet of several dozen delivery cars is an experimental collaboration between Ford, Walmart and Miami, and part of a broader effort to mold autonomous vehicles to fit the needs of Miami shoppers and businesses and Ford itself, which has committed to investing 4 billion dollar to launch an AV fleet by 2023. 
+The car manufacturer hopes to eventually offer far-reaching autonomous transportation services as its main line of business.
+The Miami project, which has been running since November 2018, illustrates the technology’s potential and the big hurdles it has yet to overcome. 
+Sherif Marakby, president and CEO of Ford Autonomous Vehicles, contends that the cars themselves are not the most important factor in whether autonomous vehicles are successful. 
+More significant is how the cities prepare for their arrival.
+Cities have an opportunity to use AVs to help solve traffic congestion, wealth inequality and other problems, but only if they put the right systems in place. 
+If they don’t, those problems could get worse. 
+It takes a lot of work with a city and its people to build a successful autonomous-vehicle operation, says Marakby. 
+We worked with officials in Miami for months before we even started our experiments there.
+Consider the information an AVs control system needs to make its way safely and efficiently through city streets. 
+At a minimum, the car needs to stay on the road and avoid hitting pedestrians, cars, dogs or anything else that crosses its path. 
+It has to interpret traffic signals, ambiguous signage, erratic human drivers, construction hoardings and hand-signals from police or roadwork crews. 
+It must also navigate through blind intersections and around double-parked cars. 
+For an autonomous car to recognize such myriad potential hazards, its computer and AI software must process and interpret a flood of raw data from an array of onboard video cameras and laser-based distance-ranging equipment. 
+And the vehicle has to do it all in real time, with a second or two to make the right decision. 
+To ensure safety, this means that, for now, driverless cars have to go slowly — very slowly. 
+One solution, Marakby says, is to devolve much of the heavy lifting in sensing and data-processing to a city-wide, ultra-fast sensor network, facilitated by incoming 5G mobile technology. 
+Instead of onboard processing, much of the pre-interpreted information critical to vehicle steering and throttle-and-braking decisions could be outsourced to distant banks of computers running more powerful AI software. 
+Data from the networks would be constantly updated by images from tens of thousands of cameras and sensors mounted on street lights, buildings and other fixtures. 
+The remote systems could then help determine safe paths through every patch of road and traffic, and feed the most relevant information on the fly to individual vehicles. 
+That might include warnings of cars approaching blind corners, detours around sudden snarls, and clarifications of confusing signals and signage. 
+The more communication there is between the vehicle and the environment, the simpler the job is for the vehicle, and the less it has to rely on its on-board sensing, Marakby says.
+None of this has been included in the Miami pilot, however. 
+The city has opted for a short-term solution by taking passengers out of the equation altogether and focusing on delivery services. 
+Driving a person through the trafficked streets of Miami calls for much more stringent safety measures and liability exposure than ferrying an order of barbequed wings and a bag of chips. 
+Miami is not alone.
+A lot of the necessary infrastructure doesn't exist yet, says Marakby, adding that building it will require investment not just from city governments, but also from fleet operators, utility and other tech companies.
+Infrastructure has to start with the city. But it can't do it on its own. It won’t happen without partnerships.
